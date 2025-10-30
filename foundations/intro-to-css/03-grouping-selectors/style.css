@@ -9,7 +9,8 @@
     background-color: hsl(51, 100%, 71%);
 }
 
-button {
+.black,
+.yellow {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
